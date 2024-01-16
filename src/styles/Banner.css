@@ -1,0 +1,17 @@
+.lmj-banner{
+    padding: 32px;
+    border-bottom: solid 3px black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #d1f3e5;
+}
+.lmj-banner img{
+    width: 45px;
+    height: 45px;
+}
+.lmj-banner h1{
+    padding-left: 10px;
+    color: green;
+    font-size: 25px;
+}

@@ -1,0 +1,27 @@
+.lmj-categories {
+	text-align: center;
+	padding-top: 30px;
+	padding-left: 70vh;
+}
+.lmj-categories button{
+	width: 150px;
+	height: 45px;
+	background-color: #31b572;
+	border: none;
+	color: #fff;
+	border-radius: 50px;
+	cursor: pointer;
+	transition: .3s;
+}
+.lmj-categories button:hover{
+	background-color: green;
+}
+
+.lmj-categories-select {
+	margin-right: 15px;
+	width: 250px;
+	height: 40px;
+	border: 1px solid #31b572;
+	outline: none;
+	cursor: pointer;
+}

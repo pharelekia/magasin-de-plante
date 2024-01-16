@@ -1,0 +1,29 @@
+.lmj-footer {
+	color: black;
+	padding: 32px;
+	border-top: solid 3px black;
+	display: flex;
+	justify-content: flex-start;
+	flex-direction: column;
+	align-items: center;
+	font-weight: 500;
+	background-color: #d1f3e5;
+}
+.lmj-footer input{
+	width: 250px;
+	height: 30px;
+	outline: none;
+}
+.lmj-footer-btn{
+	margin-left: 10px;
+	width: 80px;
+	height: 35px;
+	background-color: #31b572;
+	border: none;
+	color: #fff;
+	cursor: pointer;
+}
+
+.lmj-footer-elem {
+	margin-bottom: 10px;
+}

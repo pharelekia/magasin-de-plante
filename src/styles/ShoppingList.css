@@ -1,0 +1,26 @@
+.lmj-shopping-list {
+	width: 100%;
+}
+.list{
+	margin: 30px 6px;
+}
+.lmj-plant-list {
+	list-style-type: none;
+	padding: 32px;
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+.lmj-plant-list button{
+	background-color: green;
+	border: none;
+	width: 80px;
+	height: 30px;
+	color: #fff;
+	margin-left: 10px;
+	cursor: pointer;
+	transition: .3s;
+}
+.lmj-plant-list button:hover{
+	opacity: .7;
+}
