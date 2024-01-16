@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/magasin-de-plante/static/css/main.2a0d4e93.css",
+    "main.js": "/magasin-de-plante/static/js/main.bf865ec5.js",
+    "static/media/olivier.jpg": "/magasin-de-plante/static/media/olivier.b2908b40d9fb7f86626b.jpg",
+    "static/media/basil.jpg": "/magasin-de-plante/static/media/basil.be00474e950eb5af0054.jpg",
+    "static/media/cactus.jpg": "/magasin-de-plante/static/media/cactus.a71c2062a926cb3d5db8.jpg",
+    "static/media/pothos.jpg": "/magasin-de-plante/static/media/pothos.d72dc0ac2f240d84c9d7.jpg",
+    "static/media/monstera.jpg": "/magasin-de-plante/static/media/monstera.ec0819da398bc9469040.jpg",
+    "static/media/lyrata.jpg": "/magasin-de-plante/static/media/lyrata.2e915120c952bdb7066c.jpg",
+    "static/media/mint.jpg": "/magasin-de-plante/static/media/mint.b83a3d2e0c1c1cda808a.jpg",
+    "static/media/calathea.jpg": "/magasin-de-plante/static/media/calathea.455c33e2bd3e5509c907.jpg",
+    "static/media/succulent.jpg": "/magasin-de-plante/static/media/succulent.f4329849930298a9e46b.jpg",
+    "static/media/sun.svg": "/magasin-de-plante/static/media/sun.26fb5ace82c593ca64a695a4d42b0568.svg",
+    "static/media/water.svg": "/magasin-de-plante/static/media/water.cceb486fe1f26063bde712aa9fd7ea1e.svg",
+    "index.html": "/magasin-de-plante/index.html",
+    "main.2a0d4e93.css.map": "/magasin-de-plante/static/css/main.2a0d4e93.css.map",
+    "main.bf865ec5.js.map": "/magasin-de-plante/static/js/main.bf865ec5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2a0d4e93.css",
+    "static/js/main.bf865ec5.js"
+  ]
+}
